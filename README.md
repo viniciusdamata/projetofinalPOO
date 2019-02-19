@@ -8,3 +8,7 @@
  - Java Swing
  - PostgreSQL
  
+# Como utilizar
+- Fazer dowload ou git clone deste repositorio
+- Abrir em uma ide java
+- Criar o banco de dados postgreSQL utilizando o script incluso
